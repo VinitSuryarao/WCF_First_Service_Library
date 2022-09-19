@@ -1,0 +1,7 @@
+E:\Study\Code\WCF\Mathematics\bin\Debug\Mathematics.dll.config
+E:\Study\Code\WCF\Mathematics\bin\Debug\Mathematics.dll
+E:\Study\Code\WCF\Mathematics\bin\Debug\Mathematics.pdb
+E:\Study\Code\WCF\Mathematics\obj\Debug\Mathematics.csproj.AssemblyReference.cache
+E:\Study\Code\WCF\Mathematics\obj\Debug\Mathematics.csproj.CoreCompileInputs.cache
+E:\Study\Code\WCF\Mathematics\obj\Debug\Mathematics.dll
+E:\Study\Code\WCF\Mathematics\obj\Debug\Mathematics.pdb

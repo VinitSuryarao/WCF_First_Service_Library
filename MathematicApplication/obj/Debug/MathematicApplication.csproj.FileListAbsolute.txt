@@ -1,0 +1,11 @@
+E:\Study\Code\WCF\MathematicApplication\bin\MathematicApplication.dll.config
+E:\Study\Code\WCF\MathematicApplication\bin\MathematicApplication.dll
+E:\Study\Code\WCF\MathematicApplication\bin\MathematicApplication.pdb
+E:\Study\Code\WCF\MathematicApplication\bin\Mathematics.dll
+E:\Study\Code\WCF\MathematicApplication\bin\Mathematics.pdb
+E:\Study\Code\WCF\MathematicApplication\bin\Mathematics.dll.config
+E:\Study\Code\WCF\MathematicApplication\obj\Debug\MathematicApplication.csproj.AssemblyReference.cache
+E:\Study\Code\WCF\MathematicApplication\obj\Debug\MathematicApplication.csproj.CoreCompileInputs.cache
+E:\Study\Code\WCF\MathematicApplication\obj\Debug\MathematicApplication.csproj.CopyComplete
+E:\Study\Code\WCF\MathematicApplication\obj\Debug\MathematicApplication.dll
+E:\Study\Code\WCF\MathematicApplication\obj\Debug\MathematicApplication.pdb
